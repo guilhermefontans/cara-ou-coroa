@@ -7,7 +7,6 @@ import {
     TouchableHighlight
 } from 'react-native';
 
-
 const logo = require('../imgs/logo.png');
 const btnJogar = require('../imgs/botao_jogar.png');
 const btnSobreJogo = require('../imgs/sobre_jogo.png');
